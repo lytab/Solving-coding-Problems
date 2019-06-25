@@ -1,2 +1,2 @@
 # Solving-coding-Problems
-Some programming problems with laravel and vujs and javascript &amp; php ... with solution
+Some programming problems with laravel &amp; vujs &amp; javascript &amp; php ... with solution
